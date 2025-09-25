@@ -55,12 +55,10 @@ Data is obtained from this [repo](https://github.com/nluninja/nlp_datasets/tree/
  ### 5. Modelling Evaluation
  - Algorithms used
     - BI-LSTM
-    - BERT
  - Metrics used: Accuracy, Precision,Recall, F1-Score
  
   ### 6. Results
   
    <p float="left">
   <img src="https://user-images.githubusercontent.com/103529789/209486618-6ae1d7a5-fd6f-44a9-99c1-e163efd7f4f8.png" width="380"/>
-  <img src="https://user-images.githubusercontent.com/103529789/209486759-38819ddd-e549-4d0c-bb67-bd707758bb46.png" width="380"/>
   </p>
