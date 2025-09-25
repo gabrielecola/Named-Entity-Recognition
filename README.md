@@ -38,7 +38,6 @@ Data is obtained from this [repo](https://github.com/nluninja/nlp_datasets/tree/
    - Negative Matrix Factorization (NMF)
    
  <p float="left">
-   <img src="https://user-images.githubusercontent.com/103529789/209487141-717f4a28-51ba-410e-b0d8-e21969649e7f.png" width="350"/>
    <img src="https://user-images.githubusercontent.com/103529789/209487263-7ebc8005-9600-436c-bea3-7f81f446df13.png" width="350"/>
    </p>
 
