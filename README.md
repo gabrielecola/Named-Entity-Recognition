@@ -2,7 +2,7 @@
 
 ## Table of Contents
 
- - [Named Entity Recognition using Neural Neworks and Transformers Approach](#named-entity-recognition-using-neural-neworks-and-transformers-approach)
+ - [Named Entity Recognition using Neural Neworks](#named-entity-recognition-using-neural-neworks-and-transformers-approach)
 - [1. Problem Statement](#1-problem-statement)
 - [2. Data Description](#2-data-description)
   * [Attribute Information](#attribute-information)
